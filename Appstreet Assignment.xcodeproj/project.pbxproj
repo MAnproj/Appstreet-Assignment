@@ -14,6 +14,7 @@
 		28744E0024F685F4007B1407 /* Appstreet_Assignment.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 28744DFE24F685F4007B1407 /* Appstreet_Assignment.xcdatamodeld */; };
 		28744E0224F685F9007B1407 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 28744E0124F685F9007B1407 /* Assets.xcassets */; };
 		28744E0524F685F9007B1407 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28744E0324F685F9007B1407 /* LaunchScreen.storyboard */; };
+		2896CEEB24F7DF0F00610F26 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2896CEEA24F7DF0F00610F26 /* CollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		28744E0124F685F9007B1407 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		28744E0424F685F9007B1407 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		28744E0624F685F9007B1407 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2896CEEA24F7DF0F00610F26 /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CollectionViewCell.swift; path = ../CollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				28744DF524F685F4007B1407 /* AppDelegate.swift */,
 				28744DF724F685F4007B1407 /* SceneDelegate.swift */,
 				28744DF924F685F4007B1407 /* ViewController.swift */,
+				2896CEEA24F7DF0F00610F26 /* CollectionViewCell.swift */,
 				28744DFB24F685F4007B1407 /* Main.storyboard */,
 				28744E0124F685F9007B1407 /* Assets.xcassets */,
 				28744E0324F685F9007B1407 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2896CEEB24F7DF0F00610F26 /* CollectionViewCell.swift in Sources */,
 				28744DFA24F685F4007B1407 /* ViewController.swift in Sources */,
 				28744DF624F685F4007B1407 /* AppDelegate.swift in Sources */,
 				28744DF824F685F4007B1407 /* SceneDelegate.swift in Sources */,
